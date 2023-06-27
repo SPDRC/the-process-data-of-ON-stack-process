@@ -1,0 +1,16 @@
+
+In the ON stack process, the chamber was conditioned through the pre-run process. The pre-run recipe had the same conditions as the ON stack process. The total experimental flow is as follows:
+
+Pre-run 1st (deposition)
+Chamber cleaning process
+ON stack process_cycle 1
+ON stack process_cycle 2
+ON stack process_cycle 3
+ON stack process_cycle 4
+ON stack process_cycle 5
+ON stack process_cycle 6
+Chamber cleaning process
+
+
+The chamber cleaning process data only includes RGA data due to the remote plasma chamber cleaning.
+If you wish to study the chamber cleaning process, please refer to the 'pre_run CLN.csv' file. This data contains information for chamber cleaning in the five paired ON stack processes. 
